@@ -11,7 +11,7 @@ import SwiftUI
 struct FitSyncLastVersionApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            SplashScreen()
         }
     }
 }

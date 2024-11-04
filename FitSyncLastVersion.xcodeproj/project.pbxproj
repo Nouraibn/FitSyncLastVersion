@@ -11,6 +11,13 @@
 		2CF9D1712CB3BFEC00497C75 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CF9D1702CB3BFEC00497C75 /* ContentView.swift */; };
 		2CF9D1732CB3BFED00497C75 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2CF9D1722CB3BFED00497C75 /* Assets.xcassets */; };
 		2CF9D1762CB3BFED00497C75 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2CF9D1752CB3BFED00497C75 /* Preview Assets.xcassets */; };
+		2CF9D17D2CB3C00C00497C75 /* AddTaskScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CF9D17C2CB3C00C00497C75 /* AddTaskScreen.swift */; };
+		2CF9D17F2CB3C01E00497C75 /* SplashScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CF9D17E2CB3C01E00497C75 /* SplashScreen.swift */; };
+		2CF9D1812CB3C02C00497C75 /* SportScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CF9D1802CB3C02C00497C75 /* SportScreen.swift */; };
+		2CF9D1832CB3C03D00497C75 /* ExploreScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CF9D1822CB3C03D00497C75 /* ExploreScreen.swift */; };
+		2CF9D1852CB3C06400497C75 /* ScheduleScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CF9D1842CB3C06400497C75 /* ScheduleScreen.swift */; };
+		2CF9D1872CB3C08000497C75 /* RecommendationScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CF9D1862CB3C08000497C75 /* RecommendationScreen.swift */; };
+		2CF9D1892CB3C09C00497C75 /* AllSportsScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CF9D1882CB3C09C00497C75 /* AllSportsScreen.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +26,13 @@
 		2CF9D1702CB3BFEC00497C75 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		2CF9D1722CB3BFED00497C75 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2CF9D1752CB3BFED00497C75 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		2CF9D17C2CB3C00C00497C75 /* AddTaskScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddTaskScreen.swift; sourceTree = "<group>"; };
+		2CF9D17E2CB3C01E00497C75 /* SplashScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashScreen.swift; sourceTree = "<group>"; };
+		2CF9D1802CB3C02C00497C75 /* SportScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SportScreen.swift; sourceTree = "<group>"; };
+		2CF9D1822CB3C03D00497C75 /* ExploreScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExploreScreen.swift; sourceTree = "<group>"; };
+		2CF9D1842CB3C06400497C75 /* ScheduleScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScheduleScreen.swift; sourceTree = "<group>"; };
+		2CF9D1862CB3C08000497C75 /* RecommendationScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecommendationScreen.swift; sourceTree = "<group>"; };
+		2CF9D1882CB3C09C00497C75 /* AllSportsScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AllSportsScreen.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +67,13 @@
 			children = (
 				2CF9D16E2CB3BFEC00497C75 /* FitSyncLastVersionApp.swift */,
 				2CF9D1702CB3BFEC00497C75 /* ContentView.swift */,
+				2CF9D17C2CB3C00C00497C75 /* AddTaskScreen.swift */,
+				2CF9D17E2CB3C01E00497C75 /* SplashScreen.swift */,
+				2CF9D1802CB3C02C00497C75 /* SportScreen.swift */,
+				2CF9D1822CB3C03D00497C75 /* ExploreScreen.swift */,
+				2CF9D1842CB3C06400497C75 /* ScheduleScreen.swift */,
+				2CF9D1862CB3C08000497C75 /* RecommendationScreen.swift */,
+				2CF9D1882CB3C09C00497C75 /* AllSportsScreen.swift */,
 				2CF9D1722CB3BFED00497C75 /* Assets.xcassets */,
 				2CF9D1742CB3BFED00497C75 /* Preview Content */,
 			);
@@ -137,6 +158,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2CF9D17F2CB3C01E00497C75 /* SplashScreen.swift in Sources */,
+				2CF9D1832CB3C03D00497C75 /* ExploreScreen.swift in Sources */,
+				2CF9D1872CB3C08000497C75 /* RecommendationScreen.swift in Sources */,
+				2CF9D17D2CB3C00C00497C75 /* AddTaskScreen.swift in Sources */,
+				2CF9D1892CB3C09C00497C75 /* AllSportsScreen.swift in Sources */,
+				2CF9D1852CB3C06400497C75 /* ScheduleScreen.swift in Sources */,
+				2CF9D1812CB3C02C00497C75 /* SportScreen.swift in Sources */,
 				2CF9D1712CB3BFEC00497C75 /* ContentView.swift in Sources */,
 				2CF9D16F2CB3BFEC00497C75 /* FitSyncLastVersionApp.swift in Sources */,
 			);
